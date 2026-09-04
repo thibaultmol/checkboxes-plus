@@ -10,7 +10,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "MIT",
+	"license": "0BSD",
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
 		"@types/node": "^26.4.1",

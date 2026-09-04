@@ -2,6 +2,8 @@
 
 An [Obsidian](https://obsidian.md) plugin that renders interactive checkboxes inside tables and lets you switch between alternative checkbox states from a right-click selection menu.
 
+> **Credits**: this is a fork of [anareaty/checkboxes-plus](https://github.com/anareaty/checkboxes-plus). All credit for the original plugin goes to [anareaty](https://github.com/anareaty).
+
 ## Features
 
 - **Checkboxes in tables**: write `- [ ]`, `- [x]`, `- [/]`, `- [>]`, `- [-]`, or `- [~]` inside a table cell and it renders as a real, clickable checkbox. Click it to toggle between checked and unchecked; the underlying Markdown is updated for you.
@@ -43,4 +45,4 @@ This plugin runs entirely offline. It makes no network requests, collects no tel
 
 ## License
 
-[MIT](LICENSE)
+[0BSD](LICENSE)
